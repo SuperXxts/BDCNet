@@ -1,5 +1,5 @@
-Dataset for "Boundary Deformable Convolutional Network for Seismic Fault Segmentation"
-本仓库为论文《Boundary Deformable Convolutional Network for Seismic Fault Segmentation》的数据集仓库
+# Dataset for "Boundary Deformable Convolutional Network for Seismic Fault Segmentation"
+# 本仓库为论文《Boundary Deformable Convolutional Network for Seismic Fault Segmentation》的数据集仓库
 
 
 
