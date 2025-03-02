@@ -3,6 +3,9 @@ Dataset for "Boundary Deformable Convolutional Network for Seismic Fault Segment
 
 
 
+![image](https://github.com/SuperXxts/BDCNet/blob/main/Dataset/test_p1_image_0_left.jpg)
+![image](https://github.com/SuperXxts/BDCNet/blob/main/Dataset/test_p1_image_0_right.jpg)
+
 
 Due to the size limitations imposed by GitHub, we have uploaded the dataset to Baidu Cloud and Google Drive for researchers to download:
 Baidu Cloud link:  https://pan.baidu.com/s/1nMHW3HGYxjMYZMTJrRlAYw?pwd=1122 Code: 1122 
