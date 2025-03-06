@@ -1,5 +1,5 @@
 # Dataset for "Boundary Deformable Convolutional Network for Seismic Fault Segmentation"
-# 本仓库为论文《Boundary Deformable Convolutional Network for Seismic Fault Segmentation》的数据集仓库
+# 本仓库为论文《Boundary Deformable Convolutional Network for Seismic Fault Segmentation》的数据集和代码仓库
 
 
 
@@ -20,4 +20,6 @@ Google Drive： https://drive.google.com/file/d/1RCOlGI7FTqacfYNdXHDkFDj5-VzGep_
 
 谷歌云盘地址： https://drive.google.com/file/d/1RCOlGI7FTqacfYNdXHDkFDj5-VzGep_G/view?usp=sharing
 
+The code will be made public after the paper is published. Before the paper is published, you can also leave a message stating your purpose, and I will send you the source code via email.
 
+代码将在论文发表后公开。在论文发表之前，您也可以通过留言说明您的目的，我将会通过邮箱发送给您源代码。
